@@ -1,0 +1,17 @@
+{
+  "test_mode": true,
+  "grades": {
+    "path": "/absolute/path/to/gradebook.json"
+  },
+  "course": {
+    "name": "Course Name (e.g. cs240 - Summer 2017)",
+    "path": "/absolute/path/to/directory/with/student/folders"
+  },
+  "grader_email": "grader_email_address_here",
+  "smt": {
+    "user": "your_username_here",
+    "server": "smt.gmail.com",
+    "port": 587,
+    "pass": "your_pw_here"
+  }
+}

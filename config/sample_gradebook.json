@@ -1,0 +1,70 @@
+[
+  {
+    "unixName": "max_score",
+    "lastName": "score",
+    "firstName": "max",
+
+    "hw01": 10,
+    "hw02": 36,
+    "hw03": 58,
+    "hw04": 40,
+    "hw05": 42,
+
+    "ex01": 100,
+    "ex02": 100,
+    "ex03": 100,
+
+    "qz01": 100,
+    "qz02": 100,
+    "qz03": 100,
+
+    "withdrawn": 1,
+    "lateUsed": 0
+  },
+
+  {
+    "unixName": "sampleunixname1",
+    "lastName": "Doe",
+    "firstName": "Jane",
+
+    "hw01": 10,
+    "hw02": 32,
+    "hw03": 50,
+    "hw04": 34,
+    "hw05": 40,
+
+    "ex01": 81,
+    "ex02": 87,
+    "ex03": 88,
+
+    "qz01": 70,
+    "qz02": 85,
+    "qz03": 91,
+
+    "withdrawn": 0,
+    "lateUsed": 0
+  },
+
+  {
+    "unixName": "sampleunixname2",
+    "lastName": "Smith",
+    "firstName": "John",
+
+    "hw01": 10,
+    "hw02": 38,
+    "hw03": 48,
+    "hw04": 30,
+    "hw05": 33,
+
+    "ex01": 74,
+    "ex02": 79,
+    "ex03": 81,
+
+    "qz01": 100,
+    "qz02": 45,
+    "qz03": 100,
+
+    "withdrawn": 0,
+    "lateUsed": 0
+  }
+]

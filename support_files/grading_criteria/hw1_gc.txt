@@ -1,0 +1,33 @@
+----------------------------------------------------------------------
+hw1: Sample Grading Criteria
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+section 1 (6)
+----------------------------------------------------------------------
+category (6)
++detail (2)
++detail (3)
++detail (1)
+
+----------------------------------------------------------------------
+section 2 (10)
+----------------------------------------------------------------------
+category1 (5)
++detail (1)
++detail (4)
+
+category2 (5)
++detail (2)
++detail (2)
++detail (1)
+
+----------------------------------------------------------------------
+
+Total
+16/16
+
+(To allow for more personalized comments based on student code, this section
+is currently filled in manually by the grader. It appears at the bottom
+of the output, allowing the review the source code, compilation result, output,
+and comparison of output to sample output.)
